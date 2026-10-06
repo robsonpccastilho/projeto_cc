@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "Bash(node *)",
+      "Bash(claude mcp *)",
+      "Bash(git init *)",
+      "Bash(git ls-remote *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)",
+      "mcp__github__push_files",
+      "mcp__github__get_me"
+    ]
+  }
+}
