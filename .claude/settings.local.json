@@ -13,7 +13,10 @@
       "Bash(git push *)",
       "Bash(gh auth *)",
       "mcp__github__push_files",
-      "mcp__github__get_me"
+      "mcp__github__get_me",
+      "Bash(git commit *)",
+      "Bash(git commit --amend -m ' *)",
+      "Bash(git checkout *)"
     ]
   }
 }
